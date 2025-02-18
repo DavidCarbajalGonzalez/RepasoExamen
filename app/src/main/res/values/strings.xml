@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RepasoExamen</string>
+    <string name="cargar_fragment_dos">Cargar Fragment Dos</string>
+    <string name="cargar_fragment_uno">Cargar Fragment Uno</string>
+</resources>
