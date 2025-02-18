@@ -34,6 +34,7 @@ public class ListaActivity extends AppCompatActivity {
         });
     }
 
+
     // Método para mostrar el diálogo con los datos de la persona seleccionada
     private void mostrarDialogo(String nombre, int edad) {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
